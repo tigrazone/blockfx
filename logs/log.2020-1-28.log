@@ -1,0 +1,30 @@
+2020-01-28 14:11:26.637 ERROR Not Found
+{"message":"Not Found"}
+NotFoundError: Not Found
+    at D:\blockfx\blockfx-backend\app.js:49:8
+    at Layer.handle [as handle_request] (D:\blockfx\blockfx-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:317:13)
+    at D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:275:10)
+    at SendStream.error (D:\blockfx\blockfx-backend\node_modules\serve-static\index.js:121:7)
+    at SendStream.emit (events.js:209:13)
+    at SendStream.error (D:\blockfx\blockfx-backend\node_modules\send\index.js:270:17)
+    at SendStream.onStatError (D:\blockfx\blockfx-backend\node_modules\send\index.js:421:12)
+    at onstat (D:\blockfx\blockfx-backend\node_modules\send\index.js:727:26)
+    at FSReqCallback.oncomplete (fs.js:166:21) 
+2020-01-28 14:11:27.743 ERROR Not Found
+{"message":"Not Found"}
+NotFoundError: Not Found
+    at D:\blockfx\blockfx-backend\app.js:49:8
+    at Layer.handle [as handle_request] (D:\blockfx\blockfx-backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:317:13)
+    at D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\blockfx\blockfx-backend\node_modules\express\lib\router\index.js:275:10)
+    at SendStream.error (D:\blockfx\blockfx-backend\node_modules\serve-static\index.js:121:7)
+    at SendStream.emit (events.js:209:13)
+    at SendStream.error (D:\blockfx\blockfx-backend\node_modules\send\index.js:270:17)
+    at SendStream.onStatError (D:\blockfx\blockfx-backend\node_modules\send\index.js:421:12)
+    at onstat (D:\blockfx\blockfx-backend\node_modules\send\index.js:727:26)
+    at FSReqCallback.oncomplete (fs.js:166:21) 
